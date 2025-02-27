@@ -1,32 +1,20 @@
-# ¡Hola, soy Jonatan Elías! 👋
+Hi, I'm Jonatan Elías! 👋
+I'm a Full Stack Developer with a passion for creating scalable, efficient solutions that offer a great user experience. I love working with modern technologies in both frontend and backend to build complete web applications. I’m always looking to improve and learn new skills to contribute to collaborative projects.
 
-Soy un **Desarrollador Full Stack** con pasión por crear soluciones escalables, eficientes y con una gran experiencia de usuario. Me encanta trabajar con tecnologías modernas tanto en el **frontend** como en el **backend** para desarrollar aplicaciones web completas.
+🌍 What I do
+Frontend: React, React Native, Angular, Vue.js, HTML, CSS, JavaScript, TypeScript, TailwindCSS, Bootstrap.
+Backend: Node.js, Express, Laravel, Spring Boot, Java, PHP, Python, C#, Kotlin, Ruby, Go, MySQL, MongoDB, PostgreSQL, Firebase, Redis.
+Cloud Platforms: Azure, AWS, Google Cloud.
+DevOps: Docker, Nginx, CI/CD, GitHub Actions, Jenkins, Kubernetes.
+Mobile Development: React Native, Flutter.
+Testing: Jest, Mocha, PHPUnit, Selenium, Cypress, TestNG.
+Other Tools: Git, GitHub, GitLab, Firebase, Redis, RabbitMQ, Kafka, Elasticsearch, GraphQL, Apollo, REST APIs.
+🚀 What drives me?
+I'm motivated to be part of teams that focus on building effective and well-structured solutions. My goal is to bring value through good programming practices and collaborate on developing products that make a difference. Clean code and teamwork are my core values!
 
-## 🌍 Lo que hago
+📫 How to contact me?
+Email: jonatanelias2055@gmail.com
+📈 My profile stats
 
-- **Frontend:** React, Vue.js, HTML, CSS, JavaScript, TailwindCSS.
-- **Backend:** Node.js, Express, Laravel, PHP, Python, MySQL, MongoDB.
-- **DevOps:** Docker, Nginx, CI/CD, GitHub Actions.
-- **Pruebas:** Jest, Mocha, PHPUnit, Selenium.
 
-## 🚀 ¿Qué me motiva?
-
-Siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías que me permitan crear soluciones aún más potentes. Mi objetivo es hacer que las aplicaciones sean rápidas, seguras y fáciles de usar. ¡El código limpio es mi mantra!
-
-## 💻 Algunos de mis proyectos
-
-- [Proyecto 1: ProyectTestStoreOnline](https://github.com/jonatanegcPM/ProyectTestStoreOnline) - Una tienda online con funcionalidades de administración.
-- [Proyecto 2: MiAppWeb](https://github.com/jonatanegcPM/MiAppWeb) - Una aplicación web para gestionar inventarios con Node.js y Vue.js.
-  
-## 📫 ¿Cómo contactarme?
-
-- Correo electrónico: [jonatanelias2055@gmail.com](mailto:jonatanelias2055@gmail.com)
-- LinkedIn: [jonatanegcPM](https://www.linkedin.com/in/jonatanegcPM)
-- Twitter: [@jonatanegcPM](https://twitter.com/jonatanegcPM)
-
-## 📈 Estadísticas de mi perfil
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatanegcPM&show_icons=true&theme=radical)
-
----
-¡Gracias por visitar mi perfil! 👨‍💻✨
+Thanks for visiting my profile! 👨‍💻✨
