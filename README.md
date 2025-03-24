@@ -5,7 +5,7 @@ I'm a **Full Stack Developer** passionate about creating scalable, efficient sol
 ## 🌍 What I do
 
 ### **Frontend** 💻
-- React | React Native | Angular | Vue.js | HTML | CSS | JavaScript | TypeScript | TailwindCSS | Bootstrap
+- React | React Native | Angular | Vue.js | HTML | CSS | JavaScript | TypeScript | TailwindCSS | Bootstrap | Next.js
 
 ### **Backend** ⚙️
 - Node.js | Express | Laravel | Spring Boot | Java | PHP | Python | C# | Kotlin | Ruby | Go | MySQL | MongoDB | PostgreSQL | Firebase | Redis
